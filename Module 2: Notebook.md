@@ -1,7 +1,7 @@
 ## Module 2: Notebook ##
 
 Exercise 1: The Dream Case 
-•	Had to review the steps on how to create a work today’s file since I was unable to locate the original file. It was a good refresher to go over and got he steps again. 
+•	Had to review the steps on how to create a work today’s file since I was unable to locate the original file. It was a good refresher to go over and got the steps again. 
 •	No results came up for my surname 
 
 Exercise 2: Wget
