@@ -1,0 +1,7 @@
+This week I really enjoyed the readings. I found it really easy to make connections between the readings and the work that i've done throught the weeks of this course. I reflected on two readings: Space, Nation, and the Triumph of Region: A View of the World from Houston and What is XML and why should humanists care? An even gentler introduction to XML.
+
+## What is XML and why should humanists care? An even gentler introduction to XML ##
+This reading enabled me to realize that you need the master the basic steps on something first in order to succeed in more complex exercises. This course has made me realize that the way the modules are organized and the way the exercises are ranked allow us to fiest master the basic steps in order to work towards the more complex ecercises in other modules. 
+
+##  A View of the World from Houston and What is XML ## 
+This reading touched on technology and the different ways it allows us to do something. The work that we do in this course gets lost if we do not save it and upload it to our githubs. Technology has become such a priority in the educational world that we now rely on it for our day to day tasks. There are also challenges that are assoicated with technology, if the connection is lost half way through an assogment and the work is not saved then you lost it, if the connection is down in lectures, the class is most likely cancelled which delays you a week, etc. Although technology has created so many oppourtunities for people, it also causes alot of issues. 
