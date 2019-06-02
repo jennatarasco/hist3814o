@@ -9,3 +9,4 @@ Open Refine has actually been my favourite part of this course so far. I loved t
 After doing that and saving, and uploadng the new document, when I created another new project everything was fine and looked alike. The merging and reclustering were quick and easy. 
 
 ## Capstone Exercise ##
+This exercise was really helpful in the sense that it allowed me to get a better grasp on the open refine software. I had to back track the steps of the other exercises in order to help complete this one. I also found that it is easier for me to keep a paper notebook of all the commands and steps in the other exercises that allowed me to keep better track of what i've accomplished. This has helped me not waste time by looking back in other modules and looking through all the exercises. 
