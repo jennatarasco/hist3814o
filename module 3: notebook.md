@@ -1,4 +1,5 @@
 This week I really enjoyed the readings. I found it really easy to make connections between the readings and the work that i've done throught the weeks of this course. I reflected on two readings: Space, Nation, and the Triumph of Region: A View of the World from Houston and What is XML and why should humanists care? An even gentler introduction to XML.
+Through these connections and the replies to my annotations on the readings I was able to see that many of the other students have also been going through several of the challenges that I was faced with in the ealrier modules. It was cool to see that I was not alone with some of my challenges and that multiple students had some of the same outcomes that I had!
 
 ## What is XML and why should humanists care? An even gentler introduction to XML ##
 This reading enabled me to realize that you need the master the basic steps on something first in order to succeed in more complex exercises. This course has made me realize that the way the modules are organized and the way the exercises are ranked allow us to fiest master the basic steps in order to work towards the more complex ecercises in other modules. 
